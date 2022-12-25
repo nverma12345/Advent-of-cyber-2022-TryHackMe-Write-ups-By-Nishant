@@ -53,7 +53,7 @@ On Windows, open the Start Menu and search for 'Git Bash', then click it to open
 In this Git Bash/terminal, type the following:
 
 ```bash
-git clone 
+git clone git@github.com:nverma12345/Advent-of-cyber-2022-TryHackMe-Write-ups-By-Nishant.git
 ```
 
 If you are uncomfortable using the command line, you can install [GitHub Desktop](https://desktop.github.com/) instead.
